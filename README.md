@@ -45,11 +45,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🛒 [E-Commerce Microservices App](#) | Spring Boot + Kafka + Redis based app with seller, customer, order, and payment microservices |
-| 🧑‍🎓 [Student & Alumni Portal](#) | Spring Boot + HTML: secure login/logout, session tracking, post feed, comments |
-| 🔍 [Smart Square Matrix Algorithm](#) | Java-based Hackathon solution to optimize 3x3 matrix into “smart square” |
-| 🔐 [Checkout API + Session Auth](#) | Backend system to track sessions, DTO-based auth, and validation |
-| 🤖 [AI Comment Suggestion Engine](#) | React + Spring Boot tool to recommend smart comments on social platforms |
+| 🛒 [E-Commerce Microservices App](https://github.com/pandeygopal/EcomProject) | Spring Boot + Kafka + Redis based app with seller, customer, order, and payment microservices |
+| 🧑‍🎓 [Student & Alumni Portal](https://github.com/pandeygopal/Uplift) | Spring Boot + HTML: secure login/logout, session tracking, post feed, comments |
+| 🎓 [AI-Powered Personalized Tutor System](https://github.com/pandeygopal/intel_unnati_Ai_Tutor) | Innovative platform using AI/ML and NLP for personalized student learning, performance prediction, PDF querying, and adaptive content recommendations |
 
 ---
 
