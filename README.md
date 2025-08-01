@@ -62,10 +62,9 @@
 
 ### ✨ Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pandeygopal&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeygopal&theme=radical" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -98,15 +97,6 @@
 
 ---
 
-## 🧩 Fun Add-ons
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <br />
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
-</p>
-
----
 
 ## 🔗 Let’s Connect
 
