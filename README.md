@@ -100,15 +100,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GopalPandey1122&show_icons=true&theme=radical" alt="Gopal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pandeygopal&show_icons=true&theme=radical" alt="Gopal's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopalPandey1122&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeygopal&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopalPandey1122&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeygopal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
