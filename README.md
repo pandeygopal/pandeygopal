@@ -1,119 +1,81 @@
+<!-- GitHub Profile README for Gopal Pandey -->
+
 <h1 align="center">Hi there, I'm Gopal Pandey! 👋</h1>
 
+<h3 align="center">
+  🚀 Java Backend Developer | Full-Stack Enthusiast | Cloud & AI Learner
+</h3>
+
 <p align="center">
-🎓 Pre-Final-year B.Tech CSE student at Parul University <br>
-💻 Passionate about software engineering, full-stack development, ML, and cloud-native architectures<br>
-🚀 Aiming to land a role at a top tech company
+  <a href="https://linkedin.com/in/pandey-gopal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopal%20Pandey-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:2gopalpandey@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pandeygopal">
+    <img src="https://img.shields.io/badge/GitHub-Gopal-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+React+%7C+Kafka;Cloud+%7C+DevOps+%7C+System+Design;AI+%7C+ML+%7C+Open+Source;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🔥 About Me
 
-- 🎓 Pre-Final-year B.Tech Computer Science student at **Parul University**
-- 💡 Enthusiastic about **AI-powered projects, microservices, and scalable backend systems**
-- 🔬 Currently working as a **Java Developer Intern** at **GHN Universal Marketing Pvt. Ltd.**
-- 🧠 Continuously learning **System Design, Cloud, DevOps, and Distributed Systems**
-
----
-
-### 💡 What I Do
-
-- 💻 **Java Backend Development** | Spring Boot, REST APIs, Kafka, Microservices  
-- 🌐 **Full-Stack Web Development** | Spring Boot + React.js  
-- 🧠 **Machine Learning** | Scikit-learn, TensorFlow, Pandas  
-- ☁️ **Cloud & DevOps** | Docker, Jenkins, Azure AI-900 Certified  
-- 🔗 **APIs & Integration** | DTOs, Redis, RabbitMQ (exploring)  
-- 📊 **Data Analytics** | Python, Excel, Statistics
+- 🎓 B.Tech CSE Student at **Parul University** (Pre-Final Year)
+- 👨‍💻 Java Developer Intern at **GHN Universal Marketing Pvt. Ltd.**
+- 💡 Passionate about **microservices**, **AI**, and **cloud-native apps**
+- 🧠 Constantly upskilling in **system design, cloud, DevOps, and data analytics**
 
 ---
 
-### 🛠️ Technologies & Tools
-
-**Languages**  
-`Java` `Python` `C++` `SQL` `JavaScript`
-
-**Frontend**  
-`HTML` `CSS` `JavaScript` `React.js`
-
-**Backend**  
-`Spring Boot` `Kafka` `REST API`
-
-**Databases**  
-`MySQL` `MongoDB` `Redis` (learning)
-
-**AI/ML**  
-`Scikit-learn` `TensorFlow` `Pandas` `NumPy`
-
-**DevOps & Cloud**  
-`Docker` `Jenkins` `Azure (AI-900)` `Git`
-
-**Other Skills**  
-`Data Structures & Algorithms` `System Design` `DBMS` `Computer Networks`
-
----
-
-### 📌 Projects
-
-#### 🛍️ E-Commerce Microservices App  
-- Features: Seller services, order, payment, customer, product, cart, and review services  
-- Built using **Spring Boot**, **Kafka**, **Redis**, **DTO pattern**
-
-#### 🧑‍🎓 Alumni & Student Portal  
-- Spring Boot backend + HTML frontend  
-- Includes login/logout, post feed, image upload, likes/comments with session management
-
-#### 🧠 Smart Square Matrix Problem (Hackathon)  
-- Java-based solution to convert any 3x3 matrix into a smart square with minimum cost
-
-#### 📦 Checkout API with Session Validation  
-- Robust backend validation using Spring Boot, DTOs, and session-based login tracking
-
----
-
-### 📚 Learning Journey
-
-- 📦 **System Design** | Microservices, API Gateway, scalability  
-- ☁️ **Cloud Engineering** | Azure Fundamentals, CI/CD pipelines  
-- 📱 **React Native** | Learning mobile app dev  
-- 📈 **AI for Automation** | Building tools to suggest smart comments for social media
-
----
-
-### 📈 Career Goals
-
-- 💼 Join a **top tech company** as a backend engineer or full-stack developer  
-- 🤖 Contribute to impactful **AI and automation** tools  
-- 🌐 Build scalable SaaS platforms and developer tools  
-- 🎯 Crack top-tier **SDE interviews** through consistent practice
-
----
-
-### 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalp1122@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-pandey-375281259/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandeygopal)
-
----
-
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandeygopal&show_icons=true&theme=radical" alt="Gopal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeygopal&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeygopal&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,html,css,js,python,c,cpp,mysql,mongodb,redis,docker,azure,jenkins,tensorflow,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🧠 Skills Summary
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛒 [E-Commerce Microservices App](#) | Spring Boot + Kafka + Redis based app with seller, customer, order, and payment microservices |
+| 🧑‍🎓 [Student & Alumni Portal](#) | Spring Boot + HTML: secure login/logout, session tracking, post feed, comments |
+| 🔍 [Smart Square Matrix Algorithm](#) | Java-based Hackathon solution to optimize 3x3 matrix into “smart square” |
+| 🔐 [Checkout API + Session Auth](#) | Backend system to track sessions, DTO-based auth, and validation |
+| 🤖 [AI Comment Suggestion Engine](#) | React + Spring Boot tool to recommend smart comments on social platforms |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandeygopal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeygopal&layout=compact&theme=radical" />
+</p>
+
+### ✨ Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pandeygopal&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pandeygopal&theme=gruvbox&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 🧠 Skills Summary
 
 | Domain              | Skills / Tools                                           |
 |---------------------|----------------------------------------------------------|
@@ -121,9 +83,45 @@
 | 🌐 Frontend          | HTML, CSS, JavaScript, React.js                          |
 | 🖥️ Backend           | Spring Boot, Kafka, Microservices, REST APIs            |
 | ☁️ Cloud & DevOps    | Azure, Jenkins, Docker                                   |
-| 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas                         |
+| 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas, NumPy                  |
 | 📚 CS Fundamentals   | DSA, DBMS, CN, OS, System Design                         |
 
 ---
 
-✨ *Let’s collaborate and build impactful tech together!*
+## 🎯 2025 Goals
+
+- ✅ Crack multiple SDE interviews
+- ✅ Contribute to open source
+- 📦 Launch a real-world scalable SaaS product
+- 📖 Publish technical blogs
+- 🧠 Learn React Native and build mobile apps
+
+---
+
+## 🧩 Fun Add-ons
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
+</p>
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="mailto:2gopalpandey@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/pandey-gopal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/pandeygopal">
+    <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<em align="center">🚀 Let’s build scalable, intelligent, and future-ready systems — together.</em>
