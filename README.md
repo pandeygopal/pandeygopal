@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pandey-gopal/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-protfolio-blue?style=for-the-badge&logo=social" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gopal%20Pandey-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:2gopalpandey@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-Gopal-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://gopalpandeyportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gopal%20Pandey-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-protfolio-blue?style=for-the-badge&logo=social" />
   </a>
 </p>
 
