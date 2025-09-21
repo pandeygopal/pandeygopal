@@ -36,14 +36,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,html,css,js,python,c,cpp,mysql,mongodb,redis,docker,azure,jenkins,tensorflow,git,github,vscode&theme=dark" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -51,6 +43,35 @@
 | 🛒 [E-Commerce Microservices App](https://github.com/pandeygopal/EcomProject) | Spring Boot + Kafka + Redis based app with seller, customer, order, and payment microservices |
 | 🧑‍🎓 [Student & Alumni Portal](https://github.com/pandeygopal/Uplift) | Spring Boot + HTML: secure login/logout, session tracking, post feed, comments |
 | 🎓 [AI-Powered Personalized Tutor System](https://github.com/pandeygopal/intel_unnati_Ai_Tutor) | Innovative platform using AI/ML and NLP for personalized student learning, performance prediction, PDF querying, and adaptive content recommendations |
+
+---
+### 📜 Certifications
+
+| Badge | Certification | Issuing Body | Verification |
+|-------|---------------|--------------|--------------|
+| <img src="https://img.shields.io/badge/AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> | Microsoft Certified: Azure AI Fundamentals | Microsoft | [🔗 Verify](https://learn.microsoft.com/en-us/users/gopalpandey-1868/credentials/26d66d32b77f2383?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| <img src="https://img.shields.io/badge/OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> | Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | [🔗 Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=52F92D6A02FCDC4D59F4889F5AAD56FC0E32DF7C2A04943DE846397C683E9395) |
+
+
+---
+## 🧠 Skills Summary
+
+| Domain              | Skills / Tools                                           |
+|---------------------|----------------------------------------------------------|
+| 💻 Programming       | Java, Python, C++, SQL                                   |
+| 🌐 Frontend          | HTML, CSS, JavaScript, React.js                          |
+| 🖥️ Backend           | Spring Boot, Kafka, Microservices, REST APIs            |
+| ☁️ Cloud & DevOps    | Azure, Jenkins, Docker                                   |
+| 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas, NumPy                  |
+| 📚 CS Fundamentals   | DSA, DBMS, CN, OS, System Design                         |
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,html,css,js,python,c,cpp,mysql,mongodb,redis,docker,azure,jenkins,tensorflow,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
@@ -75,25 +96,13 @@
 
 ---
 
-## 🧠 Skills Summary
-
-| Domain              | Skills / Tools                                           |
-|---------------------|----------------------------------------------------------|
-| 💻 Programming       | Java, Python, C++, SQL                                   |
-| 🌐 Frontend          | HTML, CSS, JavaScript, React.js                          |
-| 🖥️ Backend           | Spring Boot, Kafka, Microservices, REST APIs            |
-| ☁️ Cloud & DevOps    | Azure, Jenkins, Docker                                   |
-| 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas, NumPy                  |
-| 📚 CS Fundamentals   | DSA, DBMS, CN, OS, System Design                         |
-
----
 
 ## 🎯 2025 Goals
 
 - ✅ Crack multiple SDE interviews
 - ✅ Contribute to open source
 - 📦 Launch a real-world scalable SaaS product
-- 📖 Publish technical blogs
+- 📖 Improve my portfolio
 - 🧠 Learn React Native and build mobile apps
 
 ---
